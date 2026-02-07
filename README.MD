@@ -19,6 +19,8 @@ I'm brahimi a front Web Developer . I Spend most of my time coding outstanding p
 ### 1.2. What I currently Do
 
 -I’m currently  learn how to  build frontend web applications and experimenting with different frameworks like React. I’m also working on Discord bot projects to practice real-time programming and improve my coding skills.
+
+
 -I am also currently learning about Computer forensics and cryptography ,Soon I will be a ctf player
 
 -  Fun fact: I play souls games and go to the GYM very often.
