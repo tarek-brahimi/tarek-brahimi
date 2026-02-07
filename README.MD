@@ -10,8 +10,6 @@ I'm brahimi a front Web Developer . I Spend most of my time coding outstanding p
 
  [![Linkedin Badge](https://img.shields.io/badge/-tarek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-brahimi-0a49a6356/?locale=fr_FR) [![Mail Badge](https://img.shields.io/badge/-@tareek.brahimi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/tareek.brahimi/) [![Mail Badge](https://img.shields.io/badge/-zyoodev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:devzyoo2@gmail.com)
 
-### 1.1. CoderOne Newsletter
-Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
 
 
 
@@ -20,7 +18,8 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 ### 1.2. What I currently Do
 
--I’m currently building frontend web applications and experimenting with different frameworks like React. I’m also working on Discord bot projects to practice real-time programming and improve my coding skills.
+-I’m currently  learn how to  build frontend web applications and experimenting with different frameworks like React. I’m also working on Discord bot projects to practice real-time programming and improve my coding skills.
+-I am also currently learning about Computer forensics and cryptography ,Soon I will be a ctf player
 
 -  Fun fact: I play souls games and go to the GYM very often.
 
