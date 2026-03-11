@@ -9,7 +9,7 @@
 
 
 
-I'm brahimi a front Web Developer . I Spend most of my time coding outstanding projects 
+I'm brahimi Tarek a front Web Developer . I Spend most of my time coding outstanding projects 
 
 
 
@@ -18,7 +18,13 @@ I'm brahimi a front Web Developer . I Spend most of my time coding outstanding p
  [![Linkedin Badge](https://img.shields.io/badge/-tarek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-brahimi-0a49a6356/?locale=fr_FR) [![Mail Badge](https://img.shields.io/badge/-@tareek.brahimi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/tareek.brahimi/) [![Mail Badge](https://img.shields.io/badge/-zyoodev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:devzyoo2@gmail.com)
 
 
+<p align="center">
+  <img src="hanuraghazra/github-readme-stats" />
+</p>
 
+<p align="center">
+  <img src="DenverCoder1/github-readme-streak-stats" />
+</p>
 
 
 <!-- TODO: Add last video link -->
