@@ -22,7 +22,7 @@ I spend most of my time coding outstanding projects.
 - I’m currently learning how to build frontend web applications and experimenting with frameworks like **React**.  
 - I’m also working on **Discord bot projects** to practice real-time programming and improve my coding skills.
 - Learning about **Computer forensics** and **cryptography**, soon I will be a CTF player.  
-- Fun fact: I play **Souls games** and go to the **GYM** very often.
+- Fun fact: I play **Souls games** .
 
 ---
 
